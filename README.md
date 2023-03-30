@@ -14,7 +14,8 @@ Robot following a target moving in a triangle shaped trajectory.
 ![alt text](triangle_trajectory.gif)
 ### Setup
 To run this project:
-1. Clone environment in your local environment (I recommend using DeepNote because we will be using pydrake)
+1. Clone environment in your local environment
+    1. I recommend using DeepNote because we will be using pydrake
 2. Install prerequiste packages
 3. Run the Notebook 1.ipynb which is the main script that configures and runs the simulator.
 

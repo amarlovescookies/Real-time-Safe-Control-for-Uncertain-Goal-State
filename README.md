@@ -13,7 +13,7 @@ Robot following a target moving in a sinusoidal wave.
 Robot following a target moving in a triangle shaped trajectory.
 ![alt text](triangle_trajectory.gif)
 ### Setup
-To run this project:
+**To run this project:**
 1. Clone environment in your local environment
     1. I recommend using DeepNote because we will be using pydrake
 2. Install prerequiste packages

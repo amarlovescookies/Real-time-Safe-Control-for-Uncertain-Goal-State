@@ -13,6 +13,11 @@ Robot following a target moving in a sinusoidal wave.
 Robot following a target moving in a triangle shaped trajectory.
 ![alt text](triangle_trajectory.gif)
 ### Setup
+To run this project:
+1. Clone environment in your local environment
+2. Install prerequiste packages
+3. Run the Notebook 1.ipynb which is the main script that configures and runs the simulator.
+
 **Prerequisites: numpy, matplotlib, importlib, mpl_toolkits, pydrake, scipy**
 
 **Project Architecture**
